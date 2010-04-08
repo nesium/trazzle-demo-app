@@ -14,7 +14,7 @@ package{
 		//*****************************************************************************************
 		public function Assets(){}
 		
-		[Embed(source='kermit.jpg')]
-		public static var Kermit:Class;
+		[Embed(source='Picture.png')]
+		public static var Picture:Class;
 	}
 }

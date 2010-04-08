@@ -174,7 +174,7 @@ package com.nesium{
 		}
 		
 		private function logBmpDataButton_click(e:Event):void{
-			var bmp:Bitmap = new Assets.Kermit();
+			var bmp:Bitmap = new Assets.Picture();
 			log(bmp.bitmapData);
 		}
 	}
